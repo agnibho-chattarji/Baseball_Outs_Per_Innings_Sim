@@ -1,5 +1,7 @@
 # Baseball Outs-per-Inning Simulator (v2)
 
+Link to Medium article: [3 Outs? Try 5. The Data Says Baseball Would Be Shorter, Faster, and More Exciting](https://medium.com/p/e5f1b88c72bf)
+
 Calibrated Monte Carlo simulator exploring baseball with **arbitrary outs per inning**, keeping baserunners **after 3 outs** (bases clear only when the inning ends). Includes **realistic base advancement**, **simple steals**, and a full **figure suite** for articles: heatmaps, histograms, variance vs mean, and EV curves.
 
 ## Install
